@@ -14,11 +14,11 @@ Repository URL: <a href="https://github.com/vincenta44/portfolio.git">https://gi
 <h3> Change Log </h3>
 <div class="log">
 <strong>#Sept. 2th</strong>
-  <br>- Changed Portfolio Information
-<strong>#Sept. 7th</strong>
+  <br>- Changed Portfolio Information<br>
+<br><strong>#Sept. 7th</strong>
   <br>- Added Changelog
   <br>- Added To Do List
-<strong>#Sept. 9th</strong>
+<br><strong>#Sept. 9th</strong>
   <br>- Added basics_of_the_web.html
   
   
