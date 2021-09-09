@@ -2,9 +2,16 @@
 My name is Vincent Ains and this is my portfolio for CISC 275 <br>
 Udel Email: vincenta@udel.edu <br>
 Repository URL: <a href="https://github.com/vincenta44/portfolio.git">https://github.com/vincenta44/portfolio.git</a> 
+<style>
+  .log {
+        background-color: rgba(255, 255, 255, 0.829);
+        width: 40%;
+        height: 100px;
+        overflow: scroll;
+      }
+</style>
 
 <h5> Change Log </h5>
-<ul>
-  <li><font size="-1">Added 'basics_of_the_web.html' file</font></li>
-  <li><font size="-1">Added </li>
-</ul>
+<div class="log">
+<strong>Sept. 5th</strong><br>Changed Portfolio Information
+</div>
