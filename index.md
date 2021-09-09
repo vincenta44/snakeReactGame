@@ -5,6 +5,6 @@ Repository URL: <a href="https://github.com/vincenta44/portfolio.git">https://gi
 
 <h5> Change Log </h5>
 <ul>
-  <li>Added 'basics_of_the_web.html' file</li>
+  <li><font size="-1">Added 'basics_of_the_web.html' file</font></li>
   <li>Added </li>
 </ul>
