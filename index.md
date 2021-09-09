@@ -13,12 +13,9 @@ Repository URL: <a href="https://github.com/vincenta44/portfolio.git">https://gi
 
 <h3> Change Log </h3>
 <div class="log">
-<strong>Sept. 5th</strong>
-  <br>Changed Portfolio Information
-  <br>Added basics_of_the_web.html
-  <br>f
-  <br>f
-  <br>d
-  <br>f
+<strong>#Sept. 5th</strong>
+  <br>- Changed Portfolio Information
+  <br>- Added basics_of_the_web.html
+  
   
 </div>
