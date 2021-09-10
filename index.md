@@ -11,8 +11,9 @@ Repository URL: <a href="https://github.com/vincenta44/portfolio.git">https://gi
       }
 </style>
 <h3>Files</h3>
-<p>Documents added for milestone 1</p>
+<p>Documents added for milestone 1:<br>
 <a href="basics_of_the_web.html" download>basics_of_the_web.html</a>
+ </p>
 
 <h3>TO DO: Milestone 2</h3>
 <ul>
