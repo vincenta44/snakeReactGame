@@ -5,7 +5,7 @@ Repository URL: <a href="https://github.com/vincenta44/portfolio.git">https://gi
 <style>
   .log {
         background-color: rgba(255, 255, 255, 0.829);
-        width: 40%;
+        width: 60%;
         height: 100px;
         overflow: scroll;
       }
