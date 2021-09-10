@@ -27,10 +27,13 @@ Repository URL: <a href="https://github.com/vincenta44/portfolio.git">https://gi
 <strong>#Sept. 2th</strong>
   <br>- Changed Portfolio Information
 <br><strong>#Sept. 7th</strong>
-  <br>- Added Changelog
+  <br>- Added Changelog to Portfolio page
+  <br>- Made Changelog a scroll bar to save space
   <br>- Added To Do List
+  <br>- Added tasks to do on TO DO list
 <br><strong>#Sept. 9th</strong>
-  <br>- Added basics_of_the_web.html
+  <br>- Added basics_of_the_web.html to repository
+  <br>- Added the link to basics_of_the_web.html available for download on portfolio page
   
   
 </div>
