@@ -17,8 +17,8 @@ Repository URL: <a href="https://github.com/vincenta44/portfolio.git">https://gi
 
 <h3>TO DO: Milestone 2</h3>
 <ul>
-  <li>Show basics in React and Typescript</li>
-  <li>Start a rough blog website</li>
+  <li>Show basics in React and Typescript with a general note page</li>
+  <li>Start a rough blog website (a task bar and a place to post)</li>
   <li>Work with everything together to form a fluent and cohesive website </li>
 </ul>
 
