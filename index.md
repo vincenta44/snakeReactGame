@@ -35,7 +35,7 @@ Repository URL: <a href="https://github.com/vincenta44/portfolio.git">https://gi
   <br>- Added basics_of_the_web.html to repository
   <br>- Added the link to basics_of_the_web.html available for download on portfolio page
   <br><strong>#Sept. 13th</strong>
-  <br>- Added react_typescript.html file
+  <br>- Added react_typescript.html file to repository
   
   
 </div>
