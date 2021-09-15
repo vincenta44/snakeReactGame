@@ -12,7 +12,11 @@ Repository URL: <a href="https://github.com/vincenta44/portfolio.git">https://gi
 </style>
 <h3>Files</h3>
 <p>Documents added for milestone 1:<br>
-<a href="basics_of_the_web.html" download>basics_of_the_web.html</a>
+<a href="basics_of_the_web.html">download basics_of_the_web.html</a>
+<p>Documents added for milestone 2:<br>
+<a href="greeter-tutorial/greeter.html">download greeter.html</a>
+<a href="greeter-tutorial/greeter.js">download greeter.js</a>
+<a href="greeter-tutorial/greeter.ts">download greeter.ts</a>
  </p>
 
 <h3>TO DO: Milestone 2</h3>
@@ -36,6 +40,12 @@ Repository URL: <a href="https://github.com/vincenta44/portfolio.git">https://gi
   <br>- Added the link to basics_of_the_web.html available for download on portfolio page
   <br><strong>#Sept. 13th</strong>
   <br>- Added react_typescript.html file to repository
-  
+<br><strong>#Sept. 13th</strong>
+  <br>- Added greeter_tutorial folder with files
+  <br>- Compiled greeter.ts and made greeter.js in greeter_tutorial folder
+<br><strong>#Sept. 14th</strong>
+  <br>- Added personal touches to the greeter tutorial for typescript
+<br><strong>#Sept. 15th</strong>
+  <br>- Added greeter tutorial to portfolio page  
   
 </div>
