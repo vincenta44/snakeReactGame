@@ -14,6 +14,7 @@ Repository URL: <a href="https://github.com/vincenta44/portfolio.git">https://gi
 <p>Documents added for milestone 1:<br>
 <a href="basics_of_the_web.html">open basics_of_the_web.html</a>
 <p>Documents added for milestone 2:<br>
+<a href="react_typescript.html">open react_tutorial.html</a><br>
 <a href="greeter-tutorial/greeter.html">open greeter.html</a><br>
 <a href="greeter-tutorial/greeter.js">open greeter.js</a><br>
 <a href="greeter-tutorial/greeter.ts">open greeter.ts</a>
