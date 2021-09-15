@@ -40,7 +40,6 @@ Repository URL: <a href="https://github.com/vincenta44/portfolio.git">https://gi
   <br>- Added the link to basics_of_the_web.html available for download on portfolio page
   <br><strong>#Sept. 13th</strong>
   <br>- Added react_typescript.html file to repository
-<br><strong>#Sept. 13th</strong>
   <br>- Added greeter_tutorial folder with files
   <br>- Compiled greeter.ts and made greeter.js in greeter_tutorial folder
 <br><strong>#Sept. 14th</strong>
