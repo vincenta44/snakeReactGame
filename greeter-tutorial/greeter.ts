@@ -1,3 +1,6 @@
+var firstN:string = prompt("Hey! First question, what is your first name?");
+var middleI:string = prompt("Ok, second question, what is your middle initial?");
+var lastN:string = prompt("Awesome! Last question, what is your last name?");
 class Student {
     fullName: string;
     constructor(
@@ -18,5 +21,9 @@ function greeter(person: Person){
     return "Hello, " + person.firstName + " " + person.lastName;
 }
 
-let user = new Student("Jane", "M.", "User");
+function list(person: Person){
+    
+}
+
+let user = new Student(firstN, middleI, lastN);
 document.body.textContent = greeter(user);
