@@ -31,7 +31,8 @@ Repository URL: <a href="https://github.com/vincenta44/portfolio.git">https://gi
 <h3>TO DO: Milestone 3</h3>
 <ul>
   <li>Finish the react connect4 app tutorial and implement it as a turn based game</li>
-  <li>Implement my games into react pages and create a website with react games (including a menu bar, home screen, and screen for each game</li>
+  <li>Implement my games into react pages and create a website with react games (including a menu bar, home screen, 
+  and screen for each game</li>
   <li>Create my own game in react that resembles a block breaker game</li>
   <li>Work on a typescript and react project that resembles a blog website to post and read a timeline of posts</li>
 </ul>
