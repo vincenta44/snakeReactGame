@@ -18,7 +18,7 @@ Repository URL: <a href="https://github.com/vincenta44/portfolio.git">https://gi
 <a href="greeter-tutorial/greeter.html">greeter.html</a><br>
 <a href="greeter-tutorial/greeter.js">greeter.js</a><br>
 <a href="greeter-tutorial/greeter.ts">greeter.ts</a><br>
-<a href="tictactoe_app">React tictactoe app</a>
+<a href="tictactoe_app">React tictactoe app</a><br>
 <a href="connect4">React Connect 4 app (NOT FINISHED)</a>
  </p>
 
