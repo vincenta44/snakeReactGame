@@ -15,8 +15,11 @@ Repository URL: <a href="https://github.com/vincenta44/portfolio.git">https://gi
 <a href="basics_of_the_web.html">basics_of_the_web.html</a>
 <p>Documents added for milestone 2:<br>
 <a href="react_typescript.html">react_typescript.html</a><br>
-<a href="greeter-tutorial/greeter.html">greeter tutorial</a><br>
+<a href="greeter-tutorial/greeter.html">greeter.html</a><br>
+<a href="greeter-tutorial/greeter.js">greeter.js</a><br>
+<a href="greeter-tutorial/greeter.ts">greeter.ts</a><br>
 <a href="tictactoe_app">React tictactoe app</a>
+<a href="connect4">React Connect 4 app (NOT FINISHED)</a>
  </p>
 
 <h3>TO DO: Milestone 2</h3>
@@ -24,6 +27,13 @@ Repository URL: <a href="https://github.com/vincenta44/portfolio.git">https://gi
   <li>Show basics in React and Typescript with a general note page</li>
   <li>Start a rough blog website (a task bar and a place to post)</li>
   <li>Work with everything together to form a fluent and cohesive website </li>
+</ul>
+<h3>TO DO: Milestone 3</h3>
+<ul>
+  <li>Finish the react connect4 app tutorial and implement it as a turn based game</li>
+  <li>Implement my games into react pages and create a website with react games (including a menu bar, home screen, and screen for each game</li>
+  <li>Create my own game in react that resembles a block breaker game</li>
+  <li>Work on a typescript and react project that resembles a blog website to post and read a timeline of posts</li>
 </ul>
 
 <h3> Change Log </h3>
