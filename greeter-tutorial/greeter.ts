@@ -15,10 +15,11 @@ class Student {
 interface Person{
     firstName: string;
     lastName: string;
+    middleInitial: string;
 }
 
 function greeter(person: Person){
-    return "Hello, " + person.firstName + " " + person.lastName;
+    return "Hello, " + person.firstName + " " + person.middleInitial + "." + " " + person.lastName;
 }
 
 function list(person: Person){
