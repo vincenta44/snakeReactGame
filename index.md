@@ -15,9 +15,8 @@ Repository URL: <a href="https://github.com/vincenta44/portfolio.git">https://gi
 <a href="basics_of_the_web.html">open basics_of_the_web.html</a>
 <p>Documents added for milestone 2:<br>
 <a href="react_typescript.html">open react_tutorial.html</a><br>
-<a href="greeter-tutorial/greeter.html">open greeter.html</a><br>
-<a href="greeter-tutorial/greeter.js">open greeter.js</a><br>
-<a href="greeter-tutorial/greeter.ts">open greeter.ts</a>
+<a href="greeter-tutorial">open greeter-tutorial</a>
+<a href="tictactoe_app">open tictactoe_app</a>
  </p>
 
 <h3>TO DO: Milestone 2</h3>
@@ -46,6 +45,15 @@ Repository URL: <a href="https://github.com/vincenta44/portfolio.git">https://gi
 <br><strong>#Sept. 14th</strong>
   <br>- Added personal touches to the greeter tutorial for typescript
 <br><strong>#Sept. 15th</strong>
-  <br>- Added greeter tutorial to portfolio page  
-  
+  <br>- Added greeter tutorial to portfolio page
+  <br>- Added tic-tac-toe react app onto local portfolio
+<br><strong>#Sept. 19th</strong>
+  <br>- Finished tic-tac-toe react app tutorial
+  <br>- Edited tic-tac-toe react app tutorial (make it look better)
+  <br>- Edited react_typescript.html to describe what I did during this milestone 
+<br><strong>#Sept. 21st</strong>
+  <br>- Added tic-tac-toe react app to remote repository and portfolio page
+  <br>- Edited index to match what I have done
+  <br>- Added connect4 react app to local portfolio
+    
 </div>
