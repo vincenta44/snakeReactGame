@@ -12,11 +12,11 @@ Repository URL: <a href="https://github.com/vincenta44/portfolio.git">https://gi
 </style>
 <h3>Files</h3>
 <p>Documents added for milestone 1:<br>
-<a href="basics_of_the_web.html">open basics_of_the_web.html</a>
+<a href="basics_of_the_web.html">basics_of_the_web.html</a>
 <p>Documents added for milestone 2:<br>
-<a href="react_typescript.html">open react_tutorial.html</a><br>
-<a href="greeter-tutorial">open greeter-tutorial</a>
-<a href="tictactoe_app">open tictactoe_app</a>
+<a href="react_typescript.html">react_typescript.html</a><br>
+<a href="greeter-tutorial/greeter.html">greeter tutorial</a><br>
+<a href="tictactoe_app">React tictactoe app</a>
  </p>
 
 <h3>TO DO: Milestone 2</h3>
