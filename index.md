@@ -35,6 +35,7 @@ Repository URL: <a href="https://github.com/vincenta44/portfolio.git">https://gi
   and screen for each game</li>
   <li>Create my own game in react that resembles a block breaker game</li>
   <li>Work on a typescript and react project that resembles a blog website to post and read a timeline of posts</li>
+  <li>Create note page on requirement gathering</li>
 </ul>
 
 <h3> Change Log </h3>
